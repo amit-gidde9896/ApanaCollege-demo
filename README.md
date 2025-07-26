@@ -1,4 +1,4 @@
 # ApanaCollege-demo
 This My Repository
 <br>
-Auther-AMit Gidde
+Auther-Amit Gidde(Modern College,Pune)
